@@ -1,4 +1,1 @@
-# hello-world 
-this is me learning to code 
-welcome to and tips and advise
-change; READMR.md to README.cutt
+change README.md to README.cutt
