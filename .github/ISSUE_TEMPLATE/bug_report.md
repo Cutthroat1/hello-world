@@ -35,5 +35,5 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 hello-world/.github/ISSUE_TEMPLATE/bug_report.md
 git fetch origin
-git checkout -b Cutt1 origin/Cutt1
-git merge master
+
+
