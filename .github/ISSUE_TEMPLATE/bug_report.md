@@ -34,3 +34,4 @@ If applicable, add screenshots to help explain your problem.
 **Additional context**
 Add any other context about the problem here.
 change cname to correct bug
+requesting approcak for cname change
